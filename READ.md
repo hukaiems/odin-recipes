@@ -1,0 +1,3 @@
+this project is based on what i have learned through out the introduction course of odin project about the web coding.
+Things like html basic, git basic, ....
+Right now i knew things like html element, push and add git, how to git commit but idk too well all of this so that i need to practice it more in this project.
